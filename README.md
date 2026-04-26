@@ -1,5 +1,6 @@
 # 📊 DataChat v3 — Levi's CRM Edition + Charts
-[Uploading DataChat — Levi's AI Analyst.pdf…]()
+![Uploading WhatsApp Image 2026-04-26 at 23.01.03.jpeg…]()
+
 
 **Major upgrade with realistic CRM data + auto-generated charts!**
 
